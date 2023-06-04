@@ -1,0 +1,1003 @@
+select option[data-icon] {
+  	padding-left: 24px;
+  	background-repeat: no-repeat;
+  	background-position: left center;
+}
+
+select option[data-icon="af"] {
+  	background-image: url("../img/flags/af.svg");
+}
+
+select option[data-icon="ax"] {
+  	background-image: url("../img/flags/ax.svg");
+}
+
+select option[data-icon="al"] {
+  	background-image: url("../img/flags/al.svg");
+}
+
+select option[data-icon="dz"] {
+  	background-image: url("../img/flags/dz.svg");
+}
+
+select option[data-icon="as"] {
+  	background-image: url("../img/flags/as.svg");
+}
+
+select option[data-icon="ad"] {
+  	background-image: url("../img/flags/ad.svg");
+}
+
+select option[data-icon="ao"] {
+  	background-image: url("../img/flags/ao.svg");
+}
+
+select option[data-icon="ai"] {
+  	background-image: url("../img/flags/ai.svg");
+}
+
+select option[data-icon="aq"] {
+  	background-image: url("../img/flags/aq.svg");
+}
+
+select option[data-icon="ag"] {
+  	background-image: url("../img/flags/ag.svg");
+}
+
+select option[data-icon="ar"] {
+  	background-image: url("../img/flags/ar.svg");
+}
+
+select option[data-icon="am"] {
+  	background-image: url("../img/flags/am.svg");
+}
+
+select option[data-icon="aw"] {
+  	background-image: url("../img/flags/aw.svg");
+}
+
+select option[data-icon="au"] {
+  	background-image: url("../img/flags/au.svg");
+}
+
+select option[data-icon="at"] {
+  	background-image: url("../img/flags/at.svg");
+}
+
+select option[data-icon="az"] {
+  	background-image: url("../img/flags/az.svg");
+}
+
+select option[data-icon="as"] {
+  	background-image: url("../img/flags/as.svg");
+}
+
+select option[data-icon="bs"] {
+  	background-image: url("../img/flags/bs.svg");
+}
+
+select option[data-icon="bh"] {
+  	background-image: url("../img/flags/bh.svg");
+}
+
+select option[data-icon="bd"] {
+  	background-image: url("../img/flags/bd.svg");
+}
+
+select option[data-icon="bb"] {
+  	background-image: url("../img/flags/bb.svg");
+}
+
+select option[data-icon="by"] {
+  	background-image: url("../img/flags/by.svg");
+}
+
+select option[data-icon="be"] {
+  	background-image: url("../img/flags/be.svg");
+}
+
+select option[data-icon="bz"] {
+  	background-image: url("../img/flags/bz.svg");
+}
+
+select option[data-icon="bj"] {
+  	background-image: url("../img/flags/bj.svg");
+}
+
+select option[data-icon="bm"] {
+  	background-image: url("../img/flags/bm.svg");
+}
+
+select option[data-icon="bt"] {
+  	background-image: url("../img/flags/bt.svg");
+}
+
+select option[data-icon="bo"] {
+  	background-image: url("../img/flags/bo.svg");
+}
+
+select option[data-icon="bq"] {
+  	background-image: url("../img/flags/bq.svg");
+}
+
+select option[data-icon="ba"] {
+  	background-image: url("../img/flags/ba.svg");
+}
+
+select option[data-icon="bw"] {
+  	background-image: url("../img/flags/bw.svg");
+}
+
+select option[data-icon="bv"] {
+  	background-image: url("../img/flags/bv.svg");
+}
+
+select option[data-icon="br"] {
+  	background-image: url("../img/flags/br.svg");
+}
+
+select option[data-icon="io"] {
+  	background-image: url("../img/flags/io.svg");
+}
+
+select option[data-icon="bn"] {
+  	background-image: url("../img/flags/bn.svg");
+}
+
+select option[data-icon="bg"] {
+  	background-image: url("../img/flags/bg.svg");
+}
+
+select option[data-icon="bf"] {
+  	background-image: url("../img/flags/bf.svg");
+}
+
+select option[data-icon="bi"] {
+  	background-image: url("../img/flags/bi.svg");
+}
+
+select option[data-icon="kh"] {
+  	background-image: url("../img/flags/kh.svg");
+}
+
+select option[data-icon="cm"] {
+  	background-image: url("../img/flags/cm.svg");
+}
+
+select option[data-icon="ca"] {
+  	background-image: url("../img/flags/ca.svg");
+}
+
+select option[data-icon="cv"] {
+  	background-image: url("../img/flags/cv.svg");
+}
+
+select option[data-icon="ky"] {
+  	background-image: url("../img/flags/ky.svg");
+}
+
+select option[data-icon="cf"] {
+  	background-image: url("../img/flags/cf.svg");
+}
+
+select option[data-icon="td"] {
+  	background-image: url("../img/flags/td.svg");
+}
+
+select option[data-icon="cl"] {
+  	background-image: url("../img/flags/cl.svg");
+}
+
+select option[data-icon="cn"] {
+  	background-image: url("../img/flags/cn.svg");
+}
+
+select option[data-icon="cx"] {
+  	background-image: url("../img/flags/cx.svg");
+}
+
+select option[data-icon="cc"] {
+  	background-image: url("../img/flags/cc.svg");
+}
+
+select option[data-icon="co"] {
+  	background-image: url("../img/flags/co.svg");
+}
+
+select option[data-icon="km"] {
+  	background-image: url("../img/flags/km.svg");
+}
+
+select option[data-icon="cg"] {
+  	background-image: url("../img/flags/cm.svg");
+}
+
+select option[data-icon="cd"] {
+  	background-image: url("../img/flags/ca.svg");
+}
+
+select option[data-icon="ck"] {
+  	background-image: url("../img/flags/cv.svg");
+}
+
+select option[data-icon="cr"] {
+  	background-image: url("../img/flags/cr.svg");
+}
+
+select option[data-icon="ci"] {
+  	background-image: url("../img/flags/ci.svg");
+}
+
+select option[data-icon="hr"] {
+  	background-image: url("../img/flags/hr.svg");
+}
+
+select option[data-icon="cu"] {
+  	background-image: url("../img/flags/cu.svg");
+}
+
+select option[data-icon="cw"] {
+  	background-image: url("../img/flags/cw.svg");
+}
+
+select option[data-icon="cy"] {
+  	background-image: url("../img/flags/cy.svg");
+}
+
+select option[data-icon="cz"] {
+  	background-image: url("../img/flags/cz.svg");
+}
+
+select option[data-icon="dk"] {
+  	background-image: url("../img/flags/dk.svg");
+}
+
+select option[data-icon="dj"] {
+  	background-image: url("../img/flags/dj.svg");
+}
+
+select option[data-icon="dm"] {
+  	background-image: url("../img/flags/dm.svg");
+}
+
+select option[data-icon="do"] {
+  	background-image: url("../img/flags/do.svg");
+}
+
+select option[data-icon="ec"] {
+  	background-image: url("../img/flags/ec.svg");
+}
+
+select option[data-icon="eg"] {
+  	background-image: url("../img/flags/eg.svg");
+}
+
+select option[data-icon="gq"] {
+  	background-image: url("../img/flags/gq.svg");
+}
+
+select option[data-icon="er"] {
+  	background-image: url("../img/flags/er.svg");
+}
+
+select option[data-icon="ee"] {
+  	background-image: url("../img/flags/ee.svg");
+}
+
+select option[data-icon="et"] {
+  	background-image: url("../img/flags/et.svg");
+}
+
+select option[data-icon="fk"] {
+  	background-image: url("../img/flags/fk.svg");
+}
+
+select option[data-icon="fo"] {
+  	background-image: url("../img/flags/fo.svg");
+}
+
+select option[data-icon="fj"] {
+  	background-image: url("../img/flags/fj.svg");
+}
+
+select option[data-icon="fi"] {
+  	background-image: url("../img/flags/fi.svg");
+}
+
+select option[data-icon="fr"] {
+  	background-image: url("../img/flags/fr.svg");
+}
+
+select option[data-icon="gf"] {
+  	background-image: url("../img/flags/gf.svg");
+}
+
+select option[data-icon="pf"] {
+  	background-image: url("../img/flags/pf.svg");
+}
+
+select option[data-icon="tf"] {
+  	background-image: url("../img/flags/tf.svg");
+}
+
+select option[data-icon="ga"] {
+  	background-image: url("../img/flags/ga.svg");
+}
+
+select option[data-icon="gm"] {
+  	background-image: url("../img/flags/gm.svg");
+}
+
+select option[data-icon="ge"] {
+  	background-image: url("../img/flags/ge.svg");
+}
+
+select option[data-icon="de"] {
+  	background-image: url("../img/flags/de.svg");
+}
+
+select option[data-icon="gh"] {
+  	background-image: url("../img/flags/gh.svg");
+}
+
+select option[data-icon="gi"] {
+  	background-image: url("../img/flags/gi.svg");
+}
+
+select option[data-icon="gr"] {
+  	background-image: url("../img/flags/gr.svg");
+}
+
+select option[data-icon="gl"] {
+  	background-image: url("../img/flags/gl.svg");
+}
+
+select option[data-icon="gd"] {
+  	background-image: url("../img/flags/gd.svg");
+}
+
+select option[data-icon="gp"] {
+  	background-image: url("../img/flags/gp.svg");
+}
+
+select option[data-icon="gu"] {
+  	background-image: url("../img/flags/gu.svg");
+}
+
+select option[data-icon="gt"] {
+  	background-image: url("../img/flags/gt.svg");
+}
+
+select option[data-icon="gg"] {
+  	background-image: url("../img/flags/gg.svg");
+}
+
+select option[data-icon="gn"] {
+  	background-image: url("../img/flags/gn.svg");
+}
+
+select option[data-icon="gw"] {
+  	background-image: url("../img/flags/gw.svg");
+}
+
+select option[data-icon="gy"] {
+  	background-image: url("../img/flags/gy.svg");
+}
+
+select option[data-icon="ht"] {
+  	background-image: url("../img/flags/ht.svg");
+}
+
+select option[data-icon="hm"] {
+  	background-image: url("../img/flags/hm.svg");
+}
+
+select option[data-icon="va"] {
+  	background-image: url("../img/flags/va.svg");
+}
+
+select option[data-icon="hn"] {
+  	background-image: url("../img/flags/hn.svg");
+}
+
+select option[data-icon="hk"] {
+  	background-image: url("../img/flags/hk.svg");
+}
+
+select option[data-icon="hu"] {
+  	background-image: url("../img/flags/hu.svg");
+}
+
+select option[data-icon="is"] {
+  	background-image: url("../img/flags/is.svg");
+}
+
+select option[data-icon="in"] {
+  	background-image: url("../img/flags/in.svg");
+}
+
+select option[data-icon="id"] {
+  	background-image: url("../img/flags/id.svg");
+}
+
+select option[data-icon="ir"] {
+  	background-image: url("../img/flags/ir.svg");
+}
+
+select option[data-icon="iq"] {
+  	background-image: url("../img/flags/iq.svg");
+}
+
+select option[data-icon="ie"] {
+  	background-image: url("../img/flags/ie.svg");
+}
+
+select option[data-icon="im"] {
+  	background-image: url("../img/flags/im.svg");
+}
+
+select option[data-icon="il"] {
+  	background-image: url("../img/flags/il.svg");
+}
+
+select option[data-icon="it"] {
+  	background-image: url("../img/flags/it.svg");
+}
+
+select option[data-icon="jm"] {
+  	background-image: url("../img/flags/jm.svg");
+}
+
+select option[data-icon="jp"] {
+  	background-image: url("../img/flags/jp.svg");
+}
+
+select option[data-icon="je"] {
+  	background-image: url("../img/flags/je.svg");
+}
+
+select option[data-icon="jo"] {
+  	background-image: url("../img/flags/jo.svg");
+}
+
+select option[data-icon="kz"] {
+  	background-image: url("../img/flags/kz.svg");
+}
+
+select option[data-icon="ke"] {
+  	background-image: url("../img/flags/ke.svg");
+}
+
+select option[data-icon="ki"] {
+  	background-image: url("../img/flags/ki.svg");
+}
+
+select option[data-icon="kp"] {
+  	background-image: url("../img/flags/kp.svg");
+}
+
+select option[data-icon="kr"] {
+  	background-image: url("../img/flags/kr.svg");
+}
+
+select option[data-icon="kw"] {
+  	background-image: url("../img/flags/kw.svg");
+}
+
+select option[data-icon="kg"] {
+  	background-image: url("../img/flags/kg.svg");
+}
+
+select option[data-icon="la"] {
+  	background-image: url("../img/flags/la.svg");
+}
+
+select option[data-icon="lv"] {
+  	background-image: url("../img/flags/lv.svg");
+}
+
+select option[data-icon="lb"] {
+  	background-image: url("../img/flags/lb.svg");
+}
+
+select option[data-icon="ls"] {
+  	background-image: url("../img/flags/ls.svg");
+}
+
+select option[data-icon="lr"] {
+  	background-image: url("../img/flags/lr.svg");
+}
+
+select option[data-icon="ly"] {
+  	background-image: url("../img/flags/ly.svg");
+}
+
+select option[data-icon="li"] {
+  	background-image: url("../img/flags/li.svg");
+}
+
+select option[data-icon="lt"] {
+  	background-image: url("../img/flags/lt.svg");
+}
+
+select option[data-icon="lu"] {
+  	background-image: url("../img/flags/lu.svg");
+}
+
+select option[data-icon="mo"] {
+  	background-image: url("../img/flags/mo.svg");
+}
+
+select option[data-icon="mk"] {
+  	background-image: url("../img/flags/mk.svg");
+}
+
+select option[data-icon="mg"] {
+  	background-image: url("../img/flags/mg.svg");
+}
+
+select option[data-icon="mw"] {
+  	background-image: url("../img/flags/mw.svg");
+}
+
+select option[data-icon="my"] {
+  	background-image: url("../img/flags/my.svg");
+}
+
+select option[data-icon="mv"] {
+  	background-image: url("../img/flags/mv.svg");
+}
+
+select option[data-icon="ml"] {
+  	background-image: url("../img/flags/ml.svg");
+}
+
+select option[data-icon="mt"] {
+  	background-image: url("../img/flags/mt.svg");
+}
+
+select option[data-icon="mh"] {
+  	background-image: url("../img/flags/mh.svg");
+}
+
+select option[data-icon="mq"] {
+  	background-image: url("../img/flags/mq.svg");
+}
+
+select option[data-icon="mr"] {
+  	background-image: url("../img/flags/mr.svg");
+}
+
+select option[data-icon="mu"] {
+  	background-image: url("../img/flags/mu.svg");
+}
+
+select option[data-icon="yt"] {
+  	background-image: url("../img/flags/yt.svg");
+}
+
+select option[data-icon="mx"] {
+  	background-image: url("../img/flags/mx.svg");
+}
+
+select option[data-icon="fm"] {
+  	background-image: url("../img/flags/fm.svg");
+}
+
+select option[data-icon="md"] {
+  	background-image: url("../img/flags/md.svg");
+}
+
+select option[data-icon="mc"] {
+  	background-image: url("../img/flags/mc.svg");
+}
+
+select option[data-icon="mn"] {
+  	background-image: url("../img/flags/mn.svg");
+}
+
+select option[data-icon="me"] {
+  	background-image: url("../img/flags/me.svg");
+}
+
+select option[data-icon="ms"] {
+  	background-image: url("../img/flags/ms.svg");
+}
+
+select option[data-icon="ma"] {
+  	background-image: url("../img/flags/ma.svg");
+}
+
+select option[data-icon="mz"] {
+  	background-image: url("../img/flags/mz.svg");
+}
+
+select option[data-icon="mm"] {
+  	background-image: url("../img/flags/mm.svg");
+}
+
+select option[data-icon="na"] {
+  	background-image: url("../img/flags/na.svg");
+}
+
+select option[data-icon="nr"] {
+  	background-image: url("../img/flags/nr.svg");
+}
+
+select option[data-icon="np"] {
+  	background-image: url("../img/flags/np.svg");
+}
+
+select option[data-icon="nl"] {
+  	background-image: url("../img/flags/nl.svg");
+}
+
+select option[data-icon="nc"] {
+  	background-image: url("../img/flags/nc.svg");
+}
+
+select option[data-icon="nz"] {
+  	background-image: url("../img/flags/nz.svg");
+}
+
+select option[data-icon="ni"] {
+  	background-image: url("../img/flags/ni.svg");
+}
+
+select option[data-icon="ne"] {
+  	background-image: url("../img/flags/ne.svg");
+}
+
+select option[data-icon="ng"] {
+  	background-image: url("../img/flags/ng.svg");
+}
+
+select option[data-icon="nu"] {
+  	background-image: url("../img/flags/nu.svg");
+}
+
+select option[data-icon="nf"] {
+  	background-image: url("../img/flags/nf.svg");
+}
+
+select option[data-icon="mp"] {
+  	background-image: url("../img/flags/mp.svg");
+}
+
+select option[data-icon="no"] {
+  	background-image: url("../img/flags/no.svg");
+}
+
+select option[data-icon="om"] {
+  	background-image: url("../img/flags/om.svg");
+}
+
+select option[data-icon="pk"] {
+  	background-image: url("../img/flags/pk.svg");
+}
+
+select option[data-icon="pw"] {
+  	background-image: url("../img/flags/pw.svg");
+}
+
+select option[data-icon="ps"] {
+  	background-image: url("../img/flags/ps.svg");
+}
+
+select option[data-icon="pa"] {
+  	background-image: url("../img/flags/pa.svg");
+}
+
+select option[data-icon="pg"] {
+  	background-image: url("../img/flags/pg.svg");
+}
+
+select option[data-icon="py"] {
+  	background-image: url("../img/flags/py.svg");
+}
+
+select option[data-icon="pe"] {
+  	background-image: url("../img/flags/pe.svg");
+}
+
+select option[data-icon="ph"] {
+  	background-image: url("../img/flags/ph.svg");
+}
+
+select option[data-icon="pn"] {
+  	background-image: url("../img/flags/pn.svg");
+}
+
+select option[data-icon="pl"] {
+  	background-image: url("../img/flags/pl.svg");
+}
+
+
+select option[data-icon="pt"] {
+  	background-image: url("../img/flags/pt.svg");
+}
+
+select option[data-icon="pr"] {
+  	background-image: url("../img/flags/pr.svg");
+}
+
+
+select option[data-icon="qa"] {
+  	background-image: url("../img/flags/qa.svg");
+}
+
+select option[data-icon="re"] {
+  	background-image: url("../img/flags/re.svg");
+}
+
+select option[data-icon="ro"] {
+  	background-image: url("../img/flags/ro.svg");
+}
+
+select option[data-icon="ru"] {
+  	background-image: url("../img/flags/ru.svg");
+}
+
+select option[data-icon="rw"] {
+  	background-image: url("../img/flags/rw.svg");
+}
+
+select option[data-icon="bl"] {
+  	background-image: url("../img/flags/bl.svg");
+}
+
+select option[data-icon="sh"] {
+  	background-image: url("../img/flags/sh.svg");
+}
+
+select option[data-icon="kn"] {
+  	background-image: url("../img/flags/kn.svg");
+}
+
+select option[data-icon="lc"] {
+  	background-image: url("../img/flags/lc.svg");
+}
+
+select option[data-icon="mf"] {
+  	background-image: url("../img/flags/mf.svg");
+}
+
+select option[data-icon="pm"] {
+  	background-image: url("../img/flags/pm.svg");
+}
+
+select option[data-icon="vc"] {
+  	background-image: url("../img/flags/vc.svg");
+}
+
+select option[data-icon="ws"] {
+  	background-image: url("../img/flags/ws.svg");
+}
+
+select option[data-icon="sm"] {
+  	background-image: url("../img/flags/sm.svg");
+}
+
+select option[data-icon="st"] {
+  	background-image: url("../img/flags/st.svg");
+}
+
+select option[data-icon="sa"] {
+  	background-image: url("../img/flags/sa.svg");
+}
+
+select option[data-icon="sn"] {
+  	background-image: url("../img/flags/sn.svg");
+}
+
+select option[data-icon="rs"] {
+  	background-image: url("../img/flags/rs.svg");
+}
+
+select option[data-icon="sc"] {
+  	background-image: url("../img/flags/sc.svg");
+}
+
+select option[data-icon="sl"] {
+  	background-image: url("../img/flags/sl.svg");
+}
+
+select option[data-icon="sg"] {
+  	background-image: url("../img/flags/sg.svg");
+}
+
+select option[data-icon="sx"] {
+  	background-image: url("../img/flags/sx.svg");
+}
+
+select option[data-icon="sk"] {
+  	background-image: url("../img/flags/sk.svg");
+}
+
+select option[data-icon="si"] {
+  	background-image: url("../img/flags/si.svg");
+}
+
+select option[data-icon="sb"] {
+  	background-image: url("../img/flags/sb.svg");
+}
+
+select option[data-icon="so"] {
+  	background-image: url("../img/flags/so.svg");
+}
+
+select option[data-icon="za"] {
+  	background-image: url("../img/flags/za.svg");
+}
+
+select option[data-icon="gs"] {
+  	background-image: url("../img/flags/gs.svg");
+}
+
+select option[data-icon="ss"] {
+  	background-image: url("../img/flags/ss.svg");
+}
+
+select option[data-icon="es"] {
+  	background-image: url("../img/flags/es.svg");
+}
+
+select option[data-icon="lk"] {
+  	background-image: url("../img/flags/lk.svg");
+}
+
+select option[data-icon="sd"] {
+  	background-image: url("../img/flags/sd.svg");
+}
+
+select option[data-icon="sr"] {
+  	background-image: url("../img/flags/sr.svg");
+}
+
+select option[data-icon="sj"] {
+  	background-image: url("../img/flags/sc.svg");
+}
+
+select option[data-icon="sz"] {
+  	background-image: url("../img/flags/sz.svg");
+}
+
+select option[data-icon="se"] {
+  	background-image: url("../img/flags/se.svg");
+}
+
+select option[data-icon="ch"] {
+  	background-image: url("../img/flags/ch.svg");
+}
+
+select option[data-icon="sy"] {
+  	background-image: url("../img/flags/sy.svg");
+}
+
+select option[data-icon="tw"] {
+  	background-image: url("../img/flags/tw.svg");
+}
+
+select option[data-icon="tj"] {
+  	background-image: url("../img/flags/tj.svg");
+}
+
+select option[data-icon="tz"] {
+  	background-image: url("../img/flags/tz.svg");
+}
+
+select option[data-icon="th"] {
+  	background-image: url("../img/flags/th.svg");
+}
+
+select option[data-icon="tl"] {
+  	background-image: url("../img/flags/tl.svg");
+}
+
+select option[data-icon="tg"] {
+  	background-image: url("../img/flags/tg.svg");
+}
+
+select option[data-icon="tk"] {
+  	background-image: url("../img/flags/tk.svg");
+}
+
+select option[data-icon="to"] {
+  	background-image: url("../img/flags/to.svg");
+}
+
+select option[data-icon="tt"] {
+  	background-image: url("../img/flags/tt.svg");
+}
+
+select option[data-icon="tn"] {
+  	background-image: url("../img/flags/tn.svg");
+}
+
+select option[data-icon="tr"] {
+  	background-image: url("../img/flags/tr.svg");
+}
+
+select option[data-icon="tm"] {
+  	background-image: url("../img/flags/tm.svg");
+}
+
+select option[data-icon="tc"] {
+  	background-image: url("../img/flags/tc.svg");
+}
+
+select option[data-icon="tv"] {
+  	background-image: url("../img/flags/tv.svg");
+}
+
+select option[data-icon="ug"] {
+  	background-image: url("../img/flags/ug.svg");
+}
+
+select option[data-icon="ua"] {
+  	background-image: url("../img/flags/ua.svg");
+}
+
+select option[data-icon="ae"] {
+  	background-image: url("../img/flags/ae.svg");
+}
+
+select option[data-icon="gb"] {
+  	background-image: url("../img/flags/gb.svg");
+}
+
+select option[data-icon="us"] {
+  	background-image: url("../img/flags/us.svg");
+}
+
+select option[data-icon="um"] {
+  	background-image: url("../img/flags/um.svg");
+}
+
+select option[data-icon="uy"] {
+  	background-image: url("../img/flags/uy.svg");
+}
+
+select option[data-icon="uz"] {
+  	background-image: url("../img/flags/uz.svg");
+}
+
+select option[data-icon="vu"] {
+  	background-image: url("../img/flags/vu.svg");
+}
+
+select option[data-icon="ve"] {
+  	background-image: url("../img/flags/ve.svg");
+}
+
+select option[data-icon="vn"] {
+  	background-image: url("../img/flags/vn.svg");
+}
+
+select option[data-icon="vg"] {
+  	background-image: url("../img/flags/vg.svg");
+}
+
+select option[data-icon="vi"] {
+  	background-image: url("../img/flags/tt.svg");
+}
+
+select option[data-icon="wf"] {
+  	background-image: url("../img/flags/wf.svg");
+}
+
+select option[data-icon="eh"] {
+  	background-image: url("../img/flags/eh.svg");
+}
+
+select option[data-icon="ye"] {
+  	background-image: url("../img/flags/ye.svg");
+}
+
+select option[data-icon="zm"] {
+  	background-image: url("../img/flags/zm.svg");
+}
+
+select option[data-icon="zw"] {
+  	background-image: url("../img/flags/zw.svg");
+}
