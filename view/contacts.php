@@ -12,7 +12,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>CGC</title>
+  <title>Contacts</title>
+  <meta charset="utf-8"/>
   <link rel="stylesheet" href="../css/style.css">
 </head>
 <body class="gradient">
@@ -74,7 +75,9 @@
     <hr>
 
     <div align="center" style="padding-right: 10px;padding-left: 10px;">
-      <a href="" class="hvr-bob"><img src="../img/blocker.jpg" alt="..." class="newsimg"></a>
+      <div class="newsimgdiv">
+        <a href="mailto:mistikmaks80885@gmail.com" class="hvr-bob"><img src="../img/gmail.jpg" alt="..." class="newsimg" id="newsimg"></a>
+      </div>
       <p align="center" class="maintexttitle" style="margin-bottom: 5px; margin-top: 5px; color: white;">GMail</p>
       <p align="center" class="maintext" style="margin-bottom: 5px; margin-top: 5px; color: white;">crazzzyguyscompany@gmail.com</p>
       <p align="center" class="maintext" style="margin-bottom: 5px; margin-top: 5px; color: white;">Here you can write some sort of letter, question something, or just contact with our team, but please, no spam. <b class="maintext" style="color: #282828;">!Spammers Will Be SLICED And DICED!</b></p>
@@ -83,36 +86,36 @@
     <hr>
 
     <div align="center" style="padding-right: 10px;padding-left: 10px;">
-      <a href="" class="hvr-bob"><img src="../img/blocker.jpg" alt="..." class="newsimg"></a>
+      <a href="https://www.youtube.com/channel/UCeZph-3giVw3hti3l7AysWg" class="hvr-bob"><img src="../img/youtube.jpg" alt="..." class="newsimg" id="newsimg"></a>
       <p align="center" class="maintexttitle" style="margin-bottom: 5px; margin-top: 5px; color: white;">YouTube</p>
-      <p align="center" class="maintext" style="margin-bottom: 5px; margin-top: 5px; color: white;">Link</p>
+      <a href="" align="center" class="maintext" style="margin-bottom: 5px; margin-top: 5px; color: white;">Link</a>
       <p align="center" class="maintext" style="margin-bottom: 5px; margin-top: 5px; color: white;">On that channel, you can see some content about upcoming games, some devlogs, and some other things, if you want to keep a pace with news about us, you might consider subscribing it!</p>
     </div>
 
     <hr>
 
      <div align="center" style="padding-right: 10px;padding-left: 10px;">
-      <a href="" class="hvr-bob"><img src="../img/blocker.jpg" alt="..." class="newsimg"></a>
-      <p align="center" class="maintexttitle" style="margin-bottom: 5px; margin-top: 5px; color: white;">InstaGram</p>
-      <p align="center" class="maintext" style="margin-bottom: 5px; margin-top: 5px; color: white;">Link</p>
+      <a href="https://www.instagram.com/_mistikmaks_/" class="hvr-bob"><img src="../img/instagram.jpg" alt="..." class="newsimg" id="newsimg"></a>
+      <p align="center" class="maintexttitle" style="margin-bottom: 5px; margin-top: 5px; color: white;">Instagram</p>
+      <a href="" align="center" class="maintext" style="margin-bottom: 5px; margin-top: 5px; color: white;">Link</a>
       <p align="center" class="maintext" style="margin-bottom: 5px; margin-top: 5px; color: white;">As Instagram nowadays covers more and more people around the world, we decided to use it to post some information, news and other things. Guess, it the most efficient to group auditory in one place?</p>
     </div>
 
     <hr>
 
     <div align="center" style="padding-right: 10px;padding-left: 10px;">
-      <a href="" class="hvr-bob"><img src="../img/blocker.jpg" alt="..." class="newsimg"></a>
+      <a href="" class="hvr-bob"><img src="../img/twitter.jpg" alt="..." class="newsimg" id="newsimg"></a>
       <p align="center" class="maintexttitle" style="margin-bottom: 5px; margin-top: 5px; color: white;">Twitter</p>
-      <p align="center" class="maintext" style="margin-bottom: 5px; margin-top: 5px; color: white;">Link</p>
+      <a href="" align="center" class="maintext" style="margin-bottom: 5px; margin-top: 5px; color: white;">Link</a>
       <p align="center" class="maintext" style="margin-bottom: 5px; margin-top: 5px; color: white;">Twitter is the most used social media to give information about projects that is in progress, or news on that projects, so, why not to create it for grouping all news?</p>
     </div>
 
     <hr>
 
     <div align="center" style="padding-right: 10px;padding-left: 10px;">
-      <a href="" class="hvr-bob"><img src="../img/blocker.jpg" alt="..." class="newsimg"></a>
+      <a href="https://t.me/+ycNhta0KXL4wZjMy" class="hvr-bob"><img src="../img/telegram.jpg" alt="..." class="newsimg" id="newsimg"></a>
       <p align="center" class="maintexttitle" style="margin-bottom: 5px; margin-top: 5px; color: white;">Telegram</p>
-      <p align="center" class="maintext" style="margin-bottom: 5px; margin-top: 5px; color: white;">Link</p>
+      <a href="" align="center" class="maintext" style="margin-bottom: 5px; margin-top: 5px; color: white;">Link</a>
       <p align="center" class="maintext" style="margin-bottom: 5px; margin-top: 5px; color: white;">Most used nowadays messenger, that can combine news and disscussion in one place, like some sort of social media. There you can see some information, news and other things and discuss it with others!</p>
     </div>
 

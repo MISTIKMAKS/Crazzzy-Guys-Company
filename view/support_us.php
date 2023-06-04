@@ -12,7 +12,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>CGC</title>
+  <title>You Can Support Us!!!</title>
+  <meta charset="utf-8"/>
   <link rel="stylesheet" href="../css/style.css">
 </head>
 <body class="gradient">
@@ -70,32 +71,32 @@
   <div>
     <div class="newscontainer">
       <div class="newsimgdiv">
-        <img src="../img/blocker.jpg" alt="..." class="newsimg">
+        <img src="../img/diaka.jpg" alt="..." class="newsimg">
       </div>
       <div class="textdiv">
-        <p class="newstitle" align="center">123</p>
-        <p class="newstext" align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-        <p class="newsdate">123</p>
+        <p class="newstitle" align="center">Diaka</p>
+        <p class="newstext" align="center">You can support us in Ukrainian service "Diaka". You can do it on one of our team's member Diaka, or on official "CGC" Diaka<br><a href="https://mistikmaks_maksym_luchkov-yachechak.diaka.ua/donate">CarMaDan</a><br><a href="https://mistikmaks_maksym_luchkov-yachechak.diaka.ua/donate">CGC</a></p>
+        <p class="newstext" style="color: green;">Still Working. Status Updated on 07.04.2023</p>
       </div>
     </div>
     <div class="newscontainer">
       <div class="textdiv">
-        <p class="newstitle" align="center">123</p>
-        <p class="newstext" align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-        <p class="newsdate">123</p>
+        <p class="newstitle" align="center">Payoneer</p>
+        <p class="newstext" align="center">You can support us in International servece "Payoneer". You can do it by contacting one of our team, or by contacting official accounts of "CGC" online. We will make a payment request, and sent it to you to support us</p>
+        <p class="newstext" style="color: green;">Still Working. Status Updated on 07.04.2023</p>
       </div>
       <div class="newsimgdiv">
-        <img src="../img/blocker.jpg" alt="..." class="newsimg">
+        <img src="../img/payoneer.jpg" alt="..." class="newsimg">
       </div>
     </div>
     <div class="newscontainer">
       <div class="newsimgdiv">
-        <img src="../img/blocker.jpg" alt="..." class="newsimg">
+        <img src="../img/privatbank.jpg" alt="..." class="newsimg">
       </div>
       <div class="textdiv">
-        <p class="newstitle" align="center">123</p>
-        <p class="newstext" align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-        <p class="newsdate">123</p>
+        <p class="newstitle" align="center">Credit Card</p>
+        <p class="newstext" align="center">You can support us in Credit Card. We have several cards, and you can use any of them<br>4149499146753080<br>4149605466425808<br>5168755906480690</p>
+        <p class="newstext" style="color: green;">Still Working. Status Updated on 07.04.2023</p>
       </div>
     </div>
   </div>

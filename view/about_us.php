@@ -12,7 +12,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>CGC</title>
+  <title>About Us</title>
+  <meta charset="utf-8"/>
   <link rel="stylesheet" href="../css/style.css">
 </head>
 <body class="gradient">
@@ -86,30 +87,30 @@
       <div class="newsimgdiv">
         <img src="../img/blocker.jpg" alt="..." class="newsimg">
       </div>
-      <div>
-        <p class="newstitle" align="center">123</p>
-        <p class="newstext" align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-        <p class="newsdate">123</p>
+      <div class="textdiv">
+        <p class="newstitle" align="center">In Progress...</p>
+        <p class="newstext" align="center">We can't really be called game company without any game, you know... But we have one project "In Progress", so, hang around and you will see a game, that could possibly be the one that you liked!!!<br>For now, You couldn't get nothing about upcoming project...<br>Or could you?...<br>Just know one thing...<br>Burry Secrets, Deep Under The Code Mantle...</p>
+        <p class="newsdate">07.04.2023</p>
       </div>
     </div>
     <div class="newscontainer">
-      <div>
-        <p class="newstitle" align="center">123</p>
-        <p class="newstext" align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-        <p class="newsdate">123</p>
+      <div class="textdiv">
+        <p class="newstitle" align="center">Nothing Here... Not For Long!!!</p>
+        <p class="newstext" align="center">We are New Crazzzy Company, so we have not enough <b class="newstext" style="color: #282828;">CrAzZzY</b> stories to tell. But don't worry! We will make some in no time, while making games, We are sure about it. Sooooo... Wait a liiittle bit longer, and you will get another chapter inside of our Dev-Life!!!</p>Pfhf 
+        <p class="newsdate">00.00.0000</p>
       </div>
       <div class="newsimgdiv">
-        <img src="../img/blocker.jpg" alt="..." class="newsimg">
+        <img src="../img/blocker-closed.jpg" alt="..." class="newsimg">
       </div>
     </div>
     <div class="newscontainer">
       <div class="newsimgdiv">
-        <img src="../img/blocker.jpg" alt="..." class="newsimg">
+        <img src="../img/blocker-closed.jpg" alt="..." class="newsimg">
       </div>
-      <div>
-        <p class="newstitle" align="center">123</p>
-        <p class="newstext" align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-        <p class="newsdate">123</p>
+      <div class="textdiv">
+        <p class="newstitle" align="center">Nothing Here... Not For Long!!!</p>
+        <p class="newstext" align="center">We are New Crazzzy Company, so we have not enough <b class="maintext" style="color: #282828;">CrAzZzY</b> stories to tell. But don't worry! We will make some in no time, while making games, We are sure about it. Sooooo... Wait a liiittle bit longer, and you will get another chapter inside of our Dev-Life!!!</p>
+        <p class="newsdate">00.00.0000</p>
       </div>
     </div>
   </div>
@@ -118,7 +119,8 @@
 
   <div>
     <p align="center" class="maintexttitle" style="color: white">Our History</p>
-    <p align="center" class="maintext" style="color: #686868">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></p>
+    <p align="center" class="maintext" style="color: #686868">Greeting visitors. Now we will start a chapter-by-chapter story of our friendly All our <b class="newstext" style="color: #282828;">CrAzZzY</b> team. Come one. Come all. We just about to start a history!<br>All this team started with just one person, with a dream. Dream to make interesting games, to bring joy to the people</p>
+    <div class="bigbr"></div>
   </div>
 
   <hr>
@@ -129,45 +131,45 @@
   <div>
     <div class="newscontainer">
       <div class="card">
-        <p class="newstitle" align="center">123</p>
-        <img src="https://i.pinimg.com/originals/12/61/09/126109b6c6f18f91959f49c72ad3481e.png" class="avatarImage">
-        <p class="newstext" align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <p class="newstitle" align="center" style="padding-top: 10px;">Maksym Yachechak<br>(CarMaDan)</p>
+        <img src="../img/carmadan.jpg" class="avatarImage">
+        <p class="newstext" align="center" style="padding: 30px; padding-top: 0px;">Hello, I am Max, Founder of this team, and also an One-Man Band<br>I make Music, Art, Programming and nearly all Ideas for our projects. Just a good guy from Ukraine, Learning Computer Science<br>Will be happy, if you'd like to see my<br> <a href="https://www.youtube.com/channel/UCeZph-3giVw3hti3l7AysWg" class="user-link-secret" style="color: black">YouTube Chanell</a><br>0x0</p>
         <p class="newsdate" align="center">123</p>
       </div>
       <div class="card">
-        <p class="newstitle" align="center">123</p>
-        <img src="https://i.pinimg.com/originals/12/61/09/126109b6c6f18f91959f49c72ad3481e.png" class="avatarImage">
-        <p class="newstext" align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-        <p class="newsdate" align="center">123</p>
-      </div>
-    </div>
-    <br>
-    <div class="newscontainer">
-      <div class="card">
-        <p class="newstitle" align="center">123</p>
-        <img src="https://i.pinimg.com/originals/12/61/09/126109b6c6f18f91959f49c72ad3481e.png" class="avatarImage">
-        <p class="newstext" align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-        <p class="newsdate" align="center">123</p>
-      </div>
-      <div class="card">
-        <p class="newstitle" align="center">123</p>
-        <img src="https://i.pinimg.com/originals/12/61/09/126109b6c6f18f91959f49c72ad3481e.png" class="avatarImage">
-        <p class="newstext" align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <p class="newstitle" align="center" style="padding-top: 10px;">Cat<br>(Just A simple Cat)</p>
+        <img src="../img/cat_ua.jpg" class="avatarImage">
+        <p class="newstext" align="center" style="padding: 30px; padding-top: 0px;">One-Man Band always needs an audience<br>A Companion<br>But what to do, if there are none of them?<br>...<br>...<br>Be It Yourself<br>...<br>...</p>
         <p class="newsdate" align="center">123</p>
       </div>
     </div>
-    <br>
+
     <div class="newscontainer">
       <div class="card">
-        <p class="newstitle" align="center">123</p>
-        <img src="https://i.pinimg.com/originals/12/61/09/126109b6c6f18f91959f49c72ad3481e.png" class="avatarImage">
-        <p class="newstext" align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <p class="newstitle" align="center" style="padding-top: 10px;">Not A Single Soul<br>For Now...</p>
+        <img src="../img/blocker-closed.jpg" class="avatarImage">
+        <p class="newstext" align="center" style="padding: 30px; padding-top: 0px;">Just the two of us<br>We can make it if we try<br>Just the two of us<br>(Just the two of us)<br>Just the two of us<br>Building castles in the sky<br>Just the two of us</p>
         <p class="newsdate" align="center">123</p>
       </div>
       <div class="card">
-        <p class="newstitle" align="center">123</p>
-        <img src="https://i.pinimg.com/originals/12/61/09/126109b6c6f18f91959f49c72ad3481e.png" class="avatarImage">
-        <p class="newstext" align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <p class="newstitle" align="center" style="padding-top: 10px;">Not A Single Soul<br>For Now...</p>
+        <img src="../img/blocker-closed.jpg" class="avatarImage">
+        <p class="newstext" align="center" style="padding: 30px; padding-top: 0px;">Just the two of us<br>We can make it if we try<br>Just the two of us<br>(Just the two of us)<br>Just the two of us<br>Building castles in the sky<br>Just the two of us</p>
+        <p class="newsdate" align="center">123</p>
+      </div>
+    </div>
+
+    <div class="newscontainer">
+      <div class="card">
+        <p class="newstitle" align="center" style="padding-top: 10px;">Not A Single Soul<br>For Now...</p>
+        <img src="../img/blocker-closed.jpg" class="avatarImage">
+        <p class="newstext" align="center" style="padding: 30px; padding-top: 0px;">Just the two of us<br>We can make it if we try<br>Just the two of us<br>(Just the two of us)<br>Just the two of us<br>Building castles in the sky<br>Just the two of us</p>
+        <p class="newsdate" align="center">123</p>
+      </div>
+      <div class="card">
+        <p class="newstitle" align="center" style="padding-top: 10px;">Not A Single Soul<br>For Now...</p>
+        <img src="../img/blocker-closed.jpg" class="avatarImage">
+        <p class="newstext" align="center" style="padding: 30px; padding-top: 0px;">Just the two of us<br>We can make it if we try<br>Just the two of us<br>(Just the two of us)<br>Just the two of us<br>Building castles in the sky<br>Just the two of us</p>
         <p class="newsdate" align="center">123</p>
       </div>
     </div>
